@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/F:/software/android-sdk-windows/samples/android-23/legacy/ApiDemos/res/values-v18/bools.xml -->
+    <eat-comment/>
+    <bool name="atLeastJellyBeanMR2">true</bool>
+</resources>
